@@ -1,0 +1,27 @@
+* {
+  background: rgb(48, 48, 48);
+}
+.Card {
+  background-color: white;
+  height: 50vh;
+  width: 65vw;
+  margin: 200px auto;
+}
+
+.Home {
+  height: 15%;
+  width: 100%;
+  background: rgb(137, 227, 255);
+  font-size: 30px;
+}
+
+.Name {
+  font-size: 30px;
+  background-color: white;
+}
+.List h2{
+  background-color: white;
+}
+.MovieList ol{
+  background-color: white;
+}
